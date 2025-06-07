@@ -43,6 +43,3 @@ All scenes are rendered on an i7-11thGen.
 - [ ] Bounding Volume Hierarchy (BVH) for complex scenes
 - [ ] Direct lighting sources
 - [ ] Real-time preview mode (eframe&egui)
-
-## License
-MIT License - see LICENSE file for details.
