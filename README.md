@@ -28,7 +28,7 @@ All scenes are rendered on an i7-11thGen.
 ![Classic Scene](images/image_std.png)
 
 ### High-Resolution 8K Render
-*Same scene rendered at 8K resolution (9-hour render)*
+*Same scene rendered at 8K resolution (7-hour render)*
 
 ![8K Resolution](images/image_8k.png)
 
