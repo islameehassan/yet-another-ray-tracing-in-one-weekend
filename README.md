@@ -18,7 +18,7 @@ All scenes are rendered on an i7-11thGen.
 |---------------|------------|---------|---------|-------------|
 | Standard      | 1200×675   | 500     | 1       | ~19 minutes |
 | Multi-threaded| 1200×675   | 500     | 6       | ~7 minutes  |
-| High-res      | 8K         | 500     | 6       | 9 hours     |
+| High-res      | 8K         | 500     | 6       | 7 hours     |
 
 ## Sample Renders
 
